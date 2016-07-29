@@ -9,4 +9,4 @@ I've spent much of my last few years working on previewing and viewing files of 
 [View Resume as Exported HTML Doc](http://htmlpreview.github.io/?https://raw.githubusercontent.com/WilliamRClark/workhistory/master/Resume2016.htm)
 
 # See the finished product in action
-[Instant File Preview](http://htmlpreview.github.io/?https://github.com/WilliamRClark/workhistory/blob/master/AdditionalResources/instantFilePreviewScreencast2.webm%3Fraw%3Dtrue)
+[Instant File Preview](http://htmlpreview.github.io/?https://raw.githubusercontent.com/WilliamRClark/workhistory/master/InstantPreview.htm)
